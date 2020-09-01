@@ -1,1 +1,1 @@
-Little project to demonstrate some features in microservices.
+Little project to demonstrate some basic features using microservices.
